@@ -1909,7 +1909,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #ccac00 !important;
+			color: #990000 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2546,7 +2546,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #ccac00;
+					color: #990000;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3851,7 +3851,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #ccac00;
+							background-color: #990000;
 						}
 
 		}
