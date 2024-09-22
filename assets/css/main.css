@@ -191,10 +191,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #990000, #cc0000);
+				background-image: -webkit-linear-gradient(to right, #990000, #cc0000);
+				background-image: -ms-linear-gradient(to right, #990000, #cc0000);
+				background-image: linear-gradient(to right, #990000, #cc0000);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1827,7 +1827,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease;
 		background-color: transparent;
 		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border-color: rgba(0, 0, 0, 0.15) !important;
 		border-radius: 3em;
 		color: #000000 !important;
 		cursor: pointer;
@@ -1959,7 +1959,7 @@ input, select, textarea {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #ffffff !important;
+				border-color: #000000 !important;
 			}
 
 				input[type="submit"]:hover:active:after,
